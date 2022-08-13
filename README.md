@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-Hello! I'm Amar. I'm working on becoming a web developer. 
+Hello! I'm Amar. I'm working on becoming a software developer
 - 🔭 I’m currently working on freeCodeCamp's New Responsive Web Design Course
 - 🌱 I’m currently learning HTML and CSS
 <!-- - 👯 I’m looking to collaborate on ...
