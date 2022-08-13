@@ -12,8 +12,8 @@ Hello! I'm Amar. I'm working on becoming a web developer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me:
-        Twitter <a href="https://twitter.com/amarmolinas">@amarmolinas</a>🐣
-        LinkdIn <a href="https://www.linkedin.com/in/amar-molinas"> Amar Molinas</a>🔗
+        <p>Twitter <a href="https://twitter.com/amarmolinas">@amarmolinas</a>🐣</p>
+        <p>LinkdIn <a href="https://www.linkedin.com/in/amar-molinas"> Amar Molinas</a>🔗</p>
 <!-- - 😄 Pronouns: he/him/his-->
 <!-- - ⚡ Fun fact: I love to learn languages, program languages, and human languages, but only consider myself fluent in English. 
 -->
