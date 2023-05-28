@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-My name is Amar. I'm a software developer
+My name is Amar. I'm a software developer.
 - 🔭 I’m currently working on transitioning to a new career in software development.
 - 🌱 I’m currently learning React through fullstackopen.org.
 <!-- - 👯 I’m looking to collaborate on ... -->
