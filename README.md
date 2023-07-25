@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 My name is Amar. I'm a software developer.
 - 🔭 I’m currently working on transitioning to a new career in software development.
-- 🌱 I’m currently learning React through [https://fullstackopen.com/](https://fullstackopen.com/).
+- 🌱 I’m currently learning React through [fullstackopen.com](https://fullstackopen.com).
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with finding that next step in my career.
 <!-- - 💬 Ask me about ... -->
