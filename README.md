@@ -11,8 +11,7 @@ My name is Amar. I'm a software developer.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with finding that next step in my career.
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:
-        <p>LinkdIn <a href="https://www.linkedin.com/in/amar-molinas"> Amar Molinas</a>🔗</p>
+- 📫 How to reach me:<p>LinkdIn <a href="https://www.linkedin.com/in/amar-molinas"> Amar Molinas</a>🔗</p>
   
 <!-- - 😄 Pronouns: he/him/his-->
 <!-- - ⚡ Fun fact: I love to dabble in studying languages, and have tried 
