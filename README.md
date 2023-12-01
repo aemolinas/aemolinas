@@ -6,10 +6,12 @@
 Here are some ideas to get you started:-->
 
 My name is Amar. I'm a software developer.
-- 🔭 I’m currently working on transitioning to a new career in software development.
-- 🌱 I’m currently learning React through [fullstackopen.com](https://fullstackopen.com).
+- 🔭 I’m currently working as a software tester for a large organization as the first step of a career in software development.
+- :closed_lock_with_key: security is an important focus of my work
+- 🌱 In my free time I’m currently learning React and webdevelopment through [fullstackopen.com](https://fullstackopen.com).
+- :snake: I'm also learning Python
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with finding that next step in my career.
+- 🤔 I’m looking to develop as a coder professionally and personally, and connect with others in the software development community
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: LinkdIn <a href="https://www.linkedin.com/in/amar-molinas"> Amar Molinas</a>🔗
   
