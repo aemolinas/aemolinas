@@ -7,9 +7,9 @@ Here are some ideas to get you started:-->
 
 My name is Amar. I'm a software developer.
 - 🔭 I’m currently working as a software tester for a large organization as the first step of a career in software development.
-- :closed_lock_with_key: security is an important focus of my work
-- 🌱 In my free time I’m currently learning React and webdevelopment through [fullstackopen.com](https://fullstackopen.com).
-- :snake: I'm also learning Python
+- :closed_lock_with_key: security is an important focus of my work.
+- 🌱 In my free time I’m currently learning React and web development through [fullstackopen.com](https://fullstackopen.com).
+- :snake: I'm also learning Python, and dabbling with Django.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking to develop as a coder professionally and personally, and connect with others in the software development community
 <!-- - 💬 Ask me about ... -->
